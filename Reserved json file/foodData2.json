@@ -1,0 +1,276 @@
+[
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Chicken Fried Rice",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "130",
+                "Full": "220"
+            }
+        ],
+        "description": "A savory and flavorful Chinese-inspired rice dish cooked with tender chicken and assorted vegetables."
+    },
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Veg Fried Rice",
+        "img": "https://images.unsplash.com/photo-1645177628172-a94c1f96e6db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dmVnJTIwZnJpZWQlMjByaWNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "110",
+                "Full": "200"
+            }
+        ],
+        "description": "A delicious vegetarian version of fried rice, combining various vegetables and aromatic seasonings."
+    },
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Fish Biryani",
+        "img": "https://media.istockphoto.com/photos/king-fish-biryani-with-raita-served-in-a-golden-dish-isolated-on-dark-picture-id1409942571?b=1&k=20&m=1409942571&s=170667a&w=0&h=ozlMJf5hsDmS2sSdEdBWnoSZOEITef4qGMeWeq2lyTc=",
+        "options": [
+            {
+                "Half": "200",
+                "Full": "320"
+            }
+        ],
+        "description": "A delectable Indian rice dish prepared with fragrant spices and tender fish pieces, creating a harmonious blend of flavors."
+    },
+   
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Prawns Fried Rice",
+        "img": "https://cdn.pixabay.com/photo/2018/03/23/08/27/thai-fried-rice-3253027__340.jpg",
+        "options": [
+            {
+                "Half": "120",
+                "Full": "220"
+            }
+        ],
+        "description": "A delectable seafood delight featuring succulent prawns stir-fried with rice and an assortment of vegetables, seasoned to perfection."
+    },
+    {
+        "CategoryName": "Starter",
+        "name": "Chilli Paneer",
+        "img": "https://media.istockphoto.com/photos/spicy-paneer-or-chilli-paneer-or-paneer-tikka-or-cottage-cheese-in-picture-id697316634?b=1&k=20&m=697316634&s=170667a&w=0&h=bctfHdYTz9q2dJUnuxGRDUUwC9UBWjL_oQo5ECVVDAs=",
+        "options": [
+            {
+                "Half": "120",
+                "Full": "200"
+            }
+        ],
+        "description":"Chilli Paneer: A mouthwatering Indo-Chinese fusion dish showcasing soft paneer (Indian cottage cheese) tossed in a flavorful mix of spicy sauces and bell peppers."
+    },
+    {
+        "CategoryName": "Starter",
+        "name": "Paneer 65",
+        "img": "https://media.istockphoto.com/photos/paneer-tikka-kabab-in-red-sauce-is-an-indian-dish-made-from-chunks-of-picture-id1257507446?b=1&k=20&m=1257507446&s=170667a&w=0&h=Nd7QsslbvPqOcvwu1bY0rEPZXJqwoKTYCal3nty4X-Y=",
+        "options": [
+            {
+                "Half": "150",
+                "Full": "260"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Starter",
+        "name": "Chicken Tikka",
+        "img": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMHRpa2thfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "Half": "170",
+                "Full": "300"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Starter",
+        "name": "Paneer Tikka",
+        "img": "https://media.istockphoto.com/photos/paneer-tikka-at-skewers-in-black-bowl-at-dark-slate-background-paneer-picture-id1186759790?k=20&m=1186759790&s=612x612&w=0&h=e9MlX_7cZtq9_-ORGLPNU27VNP6SvDz7s-iwTxrf7wU=",
+        "options": [
+            {
+                "Half": "170",
+                "Full": "250"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Chicken Cheese Pizza",
+        "img": "https://media.istockphoto.com/photos/double-topping-pizza-on-the-wooden-desk-isolated-picture-id1074109872?k=20&m=1074109872&s=612x612&w=0&h=JoYwwTfU_mMBykXpRB_DmgeecfotutOIO9pV5_JObpk=",
+        "options": [
+            {
+                "regular": "120",
+                "medium": "230",
+                "large": "350"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Mix Veg Pizza",
+        "img": "https://media.istockphoto.com/photos/chinese-food-veg-pizza-picture-id1341905237?k=20&m=1341905237&s=612x612&w=0&h=Lbuza1Ig5cC1PwQhqTsq-Uac8hg1W-V0Wx4d4lqDeB0=",
+        "options": [
+            {
+                "regular": "100",
+                "medium": "200",
+                "large": "300"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Sushi",
+        "name": "Spicy Tuna Roll",
+        "img": "https://media.istockphoto.com/photos/spicy-tuna-sushi-roll-isolated-on-white-background-picture-id1219270789?k=20&m=1219270789&s=612x612&w=0&h=sBQ4-gk-Xwcm3pK_JnY1Fa88oVGpTy5vbYU9nC08UPk=",
+        "options": [
+            {
+                "regular": "150",
+                "large": "250"
+            }
+        ],
+        "description": "A classic Japanese sushi roll filled with spicy tuna, avocado, and cucumber, wrapped in seaweed and sushi rice, served with pickled ginger and wasabi."
+    },
+    {
+        "CategoryName": "Pasta",
+        "name": "Creamy Garlic Shrimp Pasta",
+        "img": "https://media.istockphoto.com/photos/creamy-shrimp-pasta-with-herbs-picture-id1214273308?k=20&m=1214273308&s=612x612&w=0&h=C81FpjguNvG-OL9OqW-1V0yzu3Z_mI8OPeC8fbzJSRo=",
+        "options": [
+            {
+                "regular": "110",
+                "Large": "180"
+            }
+        ],
+        "description": "Delectable pasta dish featuring succulent garlic butter shrimp served on a bed of creamy Alfredo sauce and topped with grated Parmesan cheese."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Vegetarian Supreme Pizza",
+        "img": "https://media.istockphoto.com/photos/vegetarian-pizza-picture-id514542216?k=20&m=514542216&s=612x612&w=0&h=I1JuzVp3pDEau7z8ClEzmffTNDhqPam5-Wjke0xU5Ek=",
+        "options": [
+            {
+                "small": "$10.99",
+                "medium": "$14.99",
+                "large": "$18.99"
+            }
+        ],
+        "description": "A delightful pizza loaded with colorful bell peppers, onions, black olives, mushrooms, tomatoes, and melted mozzarella cheese, all on a thin crispy crust."
+    },
+    {
+        "CategoryName": "Burgers",
+        "name": "BBQ Bacon Cheeseburger",
+        "img": "https://media.istockphoto.com/photos/burger-isolated-picture-id1270367438?k=20&m=1270367438&s=612x612&w=0&h=5JOKbGtlmKUJX5ob9JUH4JZ--bqqiaTg1yZZQzFQDF0=",
+        "options": [
+            {
+                "single": "40",
+                "double": "70",
+                "combo": "130"
+            }
+        ],
+        "description": "Juicy beef patty topped with crispy bacon, cheddar cheese, tangy barbecue sauce, fresh lettuce, and sliced tomatoes, served on a soft sesame seed bun."
+    },
+    {
+        "CategoryName": "Salads",
+        "name": "Mediterranean Greek Salad",
+        "img": "https://media.istockphoto.com/photos/greek-salad-picture-id1154156646?k=20&m=1154156646&s=612x612&w=0&h=gQkoygrz1CE0mSLgKr7Edkj_2M71FajJ9HZIn0NmIes=",
+        "options": [
+            {
+                "regular": "120",
+                "large": "200"
+            }
+        ],
+        "description": "A refreshing mix of crisp lettuce, cucumbers, tomatoes, red onions, Kalamata olives, and feta cheese, drizzled with olive oil and sprinkled with oregano."
+    },
+    {
+        "CategoryName": "Desserts",
+        "name": "Triple Chocolate Brownie Sundae",
+        "img": "https://media.istockphoto.com/photos/triple-chocolate-brownie-sundae-picture-id1155078306?k=20&m=1155078306&s=612x612&w=0&h=3CGJX8ssQMeVQpWGT9-v5ATF89epHSjr9_8EcJgIry0=",
+        "options": [
+            {
+                "single": "180",
+                "sharing": "260"
+            }
+        ],
+        "description": "Decadent triple chocolate brownie topped with a scoop of creamy vanilla ice cream, drizzled with rich chocolate sauce and sprinkled with crushed nuts."
+    },
+    {
+        "CategoryName": "Mexican Cuisine",
+        "name": "Chicken Enchiladas",
+        "img": "https://media.istockphoto.com/photos/chicken-enchiladas-picture-id946251620?k=20&m=946251620&s=612x612&w=0&h=6bYFv-4S_9v2eD2EG6P7eIhgv5TPwwDQoNv8DKygz10=",
+        "options": [
+            {
+                "single": "210",
+                "double": "300"
+            }
+        ],
+        "description": "Corn tortillas filled with seasoned shredded chicken, topped with enchilada sauce, melted cheese, and garnished with fresh cilantro and jalapenos."
+    },
+    {
+        "CategoryName": "Chinese Stir-fry",
+        "name": "Beef and Broccoli Stir-fry",
+        "img": "https://media.istockphoto.com/photos/beef-and-broccoli-stirfry-picture-id1133541192?k=20&m=1133541192&s=612x612&w=0&h=z_V9Io6SZlYRrP2bl1VJfG0OZDg2L_15IYKrG-m09uw=",
+        "options": [
+            {
+                "regular": "180",
+                "family": "250"
+            }
+        ],
+        "description": "Tender slices of beef sautéed with fresh broccoli, carrots, and bell peppers in a savory soy-based stir-fry sauce, served over steamed jasmine rice."
+    },
+    {
+        "CategoryName": "Indian Curries",
+        "name": "Butter Chicken Curries",
+        "img": "https://www.google.com/search?q=chicken+curry&rlz=1C1VDKB_enIN1056IN1056&biw=1011&bih=651&sxsrf=AB5stBg5MAmGk8u65rJ7u8MaXEb_pT7q3g%3A1690813475477&ei=I8THZJPkHKOA1e8PguGcwAg&ved=0ahUKEwjTgdmEk7mAAxUjQPUHHYIwB4gQ4dUDCA8&uact=5&oq=chicken+curryn&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmNoaWNrZW4gY3VycnluMg0QLhgNGIAEGLEDGLEDMgoQABgNGIAEGLEDMgoQABgNGIAEGMkDMggQABiKBRiSAzIIEAAYigUYkgMyBxAAGA0YgAQyChAAGA0YgAQYsQMyDRAAGA0YgAQYsQMYsQMyBxAAGA0YgAQyBxAAGA0YgAQyGRAuGA0YgAQYsQMYlwUY3AQY3gQY3wTYAQFIgHdQi1tYj2hwBHgBkAEAmAHIAaABiwqqAQUwLjUuMrgBA8gBAPgBAcICChAAGEcY1gQYsAPCAgoQABiKBRiwAxhDwgIHECMYigUYJ8ICBBAjGCfCAgcQLhiKBRhDwgIHEAAYigUYQ8ICChAuGIoFGLEDGEPCAgoQABiKBRixAxhDwgIIEAAYgAQYyQPCAhkQLhiKBRixAxhDGJcFGNwEGN4EGN8E2AEB4gMEGAAgQYgGAZAGCroGBggBEAEYFA&sclient=gws-wiz-serp#",
+        "options": [
+            {
+                "regular": "180",
+                "large": "260"
+            }
+        ],
+        "description": "A creamy and flavorful Indian curry featuring succulent pieces of tandoori chicken simmered in a rich tomato-based gravy with aromatic spices and butter."
+    },
+    
+    {
+        "CategoryName": "Indian Curries",
+        "name": "Masala Curry",
+        "img": "data:image/jpeg;base64,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",
+        "options": [
+            {
+                "regular": "180",
+                "large": "260"
+            }
+        ],
+        "description": "A creamy and flavorful Indian curry featuring succulent pieces of tandoori taste and butter."
+    },
+    {
+        "CategoryName": "Thai Noodles",
+        "name": "Pad Thai",
+        "img": "https://www.shutterstock.com/shutterstock/photos/1037818495/display_1500/stock-photo-pad-thai-vegetarian-vegetables-udon-noodles-in-a-dark-background-top-view-vegetarian-food-in-1037818495.jpg",
+        "options": [
+            {
+                "chicken": "180",
+                "shrimp": "260",
+                "vegetarian": "280"
+            }
+        ],
+        "description": "A popular Thai stir-fried noodle dish with your choice of protein (chicken, shrimp, or tofu), tamarind sauce, bean sprouts, peanuts, and lime wedges."
+    }
+
+    ,
+    {
+        "CategoryName": "Thai Noodles",
+        "name": "Stir Fried Thai",
+        "img": "https://www.thespruceeats.com/thmb/kpnl0p1hMBsESB9wbWRN_0Zdoc4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/thai-stir-fried-noodles-with-vegetables-3217111_hero_01-8f13deb4bcb84fca82f244a504b0d886.jpg",
+        "options": [
+            {
+                "chicken": "180",
+                "shrimp": "260",
+                "vegetarian": "280"
+            }
+        ],
+        "description": "A popular Thai stir-fried noodle dish with your choice of protein (chicken, shrimp, or tofu), tamarind sauce, bean sprouts, peanuts, and lime wedges."
+    }
+]
