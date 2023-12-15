@@ -2,8 +2,7 @@ const mongoose = require("mongoose")
 mongoose.set("strictQuery", false);
 const express = require('express');
 
-//const url = 'mongodb://127.0.0.1:27017/EazeeFood?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+1.9.0';
-const url= 'mongodb+srv://shubhavkaushik:shubhav123@cluster0.qjifkco.mongodb.net/EazeeFood?retryWrites=true&w=majority'
+const url= "*******"
 const mongoConnect = async () => {
     mongoose.connect(url, { useNewUrlParser: true, useUnifiedTopology: true }, async (err, result) => {
         if (err) console.log("---", err);
